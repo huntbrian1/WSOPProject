@@ -1,0 +1,56 @@
+year,player_name,finish,status_at_event,status_basis,confidence,evidence_note,prior_main_event_cashes,prize_usd,buyin_usd,entries,source_file
+1971,Johnny Moss,1,Pro,canonical old-school professional gambler,High,Already an established poker/gambling figure at the time of this result.,0,30000,5000,6,results
+1972,Amarillo Slim Preston,1,Pro,canonical professional gambler,High,Recognized as a professional poker/gambling figure at the time of the win.,0,80000,10000,8,results
+1973,Puggy Pearson,1,Pro,canonical professional gambler,High,Recognized old-school professional and road gambler.,0,130000,10000,13,results
+1974,Johnny Moss,1,Pro,canonical old-school professional gambler,High,Multiple-time champion and established poker professional by this win.,2,160000,10000,16,results
+1975,Bryan Roberts,1,Pro,canonical professional gambler,High,Sailor Roberts was an established professional gambler.,0,210000,10000,21,results
+1976,Doyle Brunson,1,Pro,Hall of Fame professional,High,Brunson was already an established professional poker player.,0,220000,10000,22,results
+1977,Doyle Brunson,1,Pro,Hall of Fame professional,High,Second Main Event win as an already established professional.,1,340000,10000,34,results
+1978,Bobby Baldwin,1,Pro,professional player,High,Baldwin was a recognized professional player.,0,210000,10000,42,results
+1979,Hal Fowler,1,Amateur,first widely recognized amateur champion,High,Known as the first amateur to win the WSOP Main Event.,0,270000,10000,54,results
+1980,Stu Ungar,1,Pro,professional gambler,High,Ungar was an elite professional gambler/card player.,0,365000,10000,73,results
+1981,Stu Ungar,1,Pro,professional gambler,High,Second win as an established professional.,1,375000,10000,75,results
+1982,Jack Straus,1,Pro,longtime professional gambler,High,Longtime professional gambler and poker player.,0,520000,10000,104,results
+1983,Tom McEvoy,1,Pro,professional player,High,McEvoy was an established tournament professional by the time of the win.,0,540000,10000,108,results
+1984,Jack Keller,1,Pro,established tournament pro,Medium,Treated as a professional based on repeated high-level tournament results.,0,660000,10000,132,results
+1985,Bill Smith,1,Pro,established poker player,Medium,Repeated Main Event final-table presence supports pro classification.,1,700000,10000,140,results
+1986,Berry Johnston,1,Pro,professional player,High,Johnston was an established professional player.,2,570000,10000,141,results
+1987,Johnny Chan,1,Pro,professional player,High,Chan was a professional player at the time.,0,625000,10000,152,results
+1988,Johnny Chan,1,Pro,professional player,High,Back-to-back win as an established professional.,1,700000,10000,167,results
+1989,Phil Hellmuth,1,Pro,professional player,High,Hellmuth was a professional poker player.,1,755000,10000,178,results
+1990,Mansour Matloubi,1,Pro,tournament professional,Medium,Treated as a tournament professional based on high-level poker résumé.,0,835000,10000,194,results
+1991,Brad Daugherty,1,Pro,established professional,High,Daugherty was an established poker professional.,0,1000000,10000,215,results
+1992,Hamid Dastmalchi,1,Pro,established professional,High,Dastmalchi was an established poker professional.,3,1000000,10000,201,results
+1993,Jim Bechtel,1,Amateur,cotton farmer / serious amateur,Medium,Non-poker primary occupation with substantial prior Main Event experience; kept amateur but sensitivity-tested.,3,1000000,10000,231,results
+1994,Russ Hamilton,1,Pro,professional player,High,Hamilton was a professional poker player.,0,1000000,10000,268,results
+1995,Dan Harrington,1,Pro,major tournament professional,High,Harrington was a major tournament professional.,1,1000000,10000,273,results
+1996,Huck Seed,1,Pro,professional player,High,Seed was a professional poker player.,0,1000000,10000,295,results
+1997,Stu Ungar,1,Pro,professional gambler,High,Third win as an established professional.,3,1000000,10000,312,results
+1998,Scotty Nguyen,1,Pro,professional player,High,Nguyen was a professional poker player.,0,1000000,10000,350,results
+1999,Noel Furlong,1,Amateur,businessman / non-poker primary career,Medium,"Businessman and serious player, but not classified as career poker pro at event time.",1,1000000,10000,393,results
+2000,Chris Ferguson,1,Pro,established professional,High,Ferguson was an established poker professional.,0,1500000,10000,512,results
+2001,Carlos Mortensen,1,Pro,professional player,High,Mortensen was a professional poker player.,0,1500000,10000,613,results
+2002,Robert Varkonyi,1,Amateur,investment banker / non-poker primary career,High,Event-time identity was non-poker primary career rather than established poker pro.,0,2000000,10000,631,results
+2003,Chris Moneymaker,1,Amateur,recreational player / accountant / satellite qualifier,High,The classic amateur boom case; later fame should not retroactively change the event-time tag.,0,2500000,10000,839,results
+2004,Greg Raymer,1,Uncertain-Crossover,patent attorney plus serious poker player,Low,Mixed event-time identity: non-poker profession but serious player who became clearly professional afterward.,0,5000000,10000,2576,results
+2005,Joe Hachem,1,Pro,professional player,High,Classified as a professional player at the time of the win.,0,7500000,10000,5619,results
+2006,Jamie Gold,1,Amateur,television producer / non-poker primary career,High,"Event-time identity was TV producer with poker experience, not career poker pro.",0,12000000,10000,8773,results
+2007,Jerry Yang,1,Amateur,psychologist/social worker / satellite qualifier,High,Non-poker primary occupation and satellite-qualified amateur profile.,0,8250000,10000,6358,results
+2008,Peter Eastgate,1,Pro,professional player,High,Eastgate was a professional player.,0,9152416,10000,6844,results
+2009,Joe Cada,1,Pro,professional player,High,Cada was a professional player.,0,8547044,10000,6494,results
+2010,Jonathan Duhamel,1,Pro,professional player,High,Duhamel was a professional player.,0,8944310,10000,7319,results
+2011,Pius Heinz,1,Pro,online professional,High,Heinz was an online professional.,0,8715638,10000,6865,results
+2012,Greg Merson,1,Pro,professional player,High,Merson was a professional player.,1,8531853,10000,6598,results
+2013,Ryan Riess,1,Pro,professional player,High,Riess was a professional player.,0,8361570,10000,6352,results
+2014,Martin Jacobson,1,Pro,professional player,High,Jacobson was a professional player.,0,10000000,10000,6683,results
+2015,Joe McKeehen,1,Pro,professional player,High,McKeehen was a professional player.,1,7683346,10000,6420,results
+2016,Qui Nguyen,1,Pro,full-time cash player,Medium,Classified pro because event-time profile emphasized full-time poker/cash-game play.,0,8005310,10000,6737,results
+2017,Scott Blumstein,1,Pro,professional player,High,Blumstein was a professional player.,0,8150000,10000,7221,results
+2018,John Cynn,1,Pro,professional player,High,Cynn was a professional player.,1,8800000,10000,7874,results
+2019,Hossein Ensan,1,Pro,pro / semi-pro,High,Ensan was treated as a professional/semi-professional player.,0,10000000,10000,8569,results
+2020,Damian Salas,1,Pro,professional player / split-format year,High,Professional player; 2020 should be handled as a structural outlier.,4,1550969,10000,1379,final_table
+2021,Koray Aldemir,1,Pro,professional player,High,Aldemir was a professional player.,2,8000000,10000,6650,results
+2022,Espen Jorstad,1,Pro,online professional,High,Jorstad was an online professional.,0,10000000,10000,8663,results
+2023,Daniel Weinman,1,Pro,professional player,High,Weinman was a professional player.,1,12100000,10000,10043,results
+2024,Jonathan Tamayo,1,Pro,professional player,High,Tamayo was a professional player.,6,10000000,10000,10112,results
+2025,Michael Mizrachi,1,Pro,elite professional player,High,Mizrachi was already an elite professional player.,4,10000000,10000,9735,results
