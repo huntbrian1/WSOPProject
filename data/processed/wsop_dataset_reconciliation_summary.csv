@@ -1,0 +1,9 @@
+metric,value
+final_table_rows_2001_2025_top9,225
+results_rows_2001_2025_top9,215
+matched_rows,215
+final_table_only_rows,10
+results_only_rows,0
+name_variant_rows_on_matched_records,20
+prize_difference_rows_on_matched_records,15
+entrant_count_difference_rows_on_matched_records,0

@@ -1,0 +1,55 @@
+year,entries,buyin,prize_pool,winner_name,winner_prize,winner_key,winner_share_pct,rake_pct,winner_roi_pct,era,status_at_event,status_basis,confidence,prior_main_event_cashes
+1971,6,5000,30000,Johnny Moss,30000,johnnymoss,100.0,0.0,500.0,Early Era (<=1995),Pro,canonical old-school professional gambler,High,0
+1972,8,10000,80000,Amarillo Slim Preston,80000,amarilloslimpreston,100.0,0.0,700.0,Early Era (<=1995),Pro,canonical professional gambler,High,0
+1973,13,10000,130000,Puggy Pearson,130000,puggypearson,100.0,0.0,1200.0,Early Era (<=1995),Pro,canonical professional gambler,High,0
+1974,16,10000,160000,Johnny Moss,160000,johnnymoss,100.0,0.0,1500.0,Early Era (<=1995),Pro,canonical old-school professional gambler,High,2
+1975,21,10000,210000,Bryan Roberts,210000,bryanroberts,100.0,0.0,2000.0,Early Era (<=1995),Pro,canonical professional gambler,High,0
+1976,22,10000,220000,Doyle Brunson,220000,doylebrunson,100.0,0.0,2100.0,Early Era (<=1995),Pro,Hall of Fame professional,High,0
+1977,34,10000,340000,Doyle Brunson,340000,doylebrunson,100.0,0.0,3300.0,Early Era (<=1995),Pro,Hall of Fame professional,High,1
+1978,42,10000,420000,Bobby Baldwin,210000,bobbybaldwin,50.0,0.0,2000.0,Early Era (<=1995),Pro,professional player,High,0
+1979,54,10000,540000,Hal Fowler,270000,halfowler,50.0,0.0,2600.0,Early Era (<=1995),Amateur,first widely recognized amateur champion,High,0
+1980,73,10000,730000,Stu Ungar,365000,stuungar,50.0,0.0,3550.0,Early Era (<=1995),Pro,professional gambler,High,0
+1981,75,10000,750000,Stu Ungar,375000,stuungar,50.0,0.0,3650.0,Early Era (<=1995),Pro,professional gambler,High,1
+1982,104,10000,1040000,Jack Straus,520000,jackstraus,50.0,0.0,5100.0,Early Era (<=1995),Pro,longtime professional gambler,High,0
+1983,108,10000,1080000,Tom McEvoy,540000,tommcevoy,50.0,0.0,5300.0,Early Era (<=1995),Pro,professional player,High,0
+1984,132,10000,1320000,Jack Keller,660000,jackkeller,50.0,0.0,6500.0,Early Era (<=1995),Pro,established tournament pro,Medium,0
+1985,140,10000,1400000,Bill Smith,700000,billsmith,50.0,0.0,6900.0,Early Era (<=1995),Pro,established poker player,Medium,1
+1986,141,10000,1410000,Berry Johnston,570000,berryjohnston,40.42553191489361,0.0,5600.0,Early Era (<=1995),Pro,professional player,High,2
+1987,152,10000,1520000,Johnny Chan,625000,johnnychan,41.118421052631575,0.0,6150.0,Early Era (<=1995),Pro,professional player,High,0
+1988,167,10000,1670000,Johnny Chan,700000,johnnychan,41.91616766467065,0.0,6900.0,Early Era (<=1995),Pro,professional player,High,1
+1989,178,10000,1795100,Phil Hellmuth,755000,philhellmuth,42.05893822071194,-0.8483146067415737,7450.0,Early Era (<=1995),Pro,professional player,High,1
+1990,194,10000,1940000,Mansour Matloubi,835000,mansourmatloubi,43.04123711340206,0.0,8250.0,Early Era (<=1995),Pro,tournament professional,Medium,0
+1991,215,10000,2150000,Brad Daugherty,1000000,braddaugherty,46.51162790697674,0.0,9900.0,Early Era (<=1995),Pro,established professional,High,0
+1992,201,10000,2010000,Hamid Dastmalchi,1000000,hamiddastmalchi,49.75124378109453,0.0,9900.0,Early Era (<=1995),Pro,established professional,High,3
+1993,231,10000,2308000,Jim Bechtel,1000000,jimbechtel,43.327556325823224,0.08658008658009031,9900.0,Early Era (<=1995),Amateur,cotton farmer / serious amateur,Medium,3
+1994,268,10000,2680000,Russ Hamilton,1000000,russhamilton,37.3134328358209,0.0,9900.0,Early Era (<=1995),Pro,professional player,High,0
+1995,273,10000,2730000,Dan Harrington,1000000,danharrington,36.63003663003663,0.0,9900.0,Early Era (<=1995),Pro,major tournament professional,High,1
+1996,295,10000,2950000,Huck Seed,1000000,huckseed,33.89830508474576,0.0,9900.0,Pre-Boom (1996-2003),Pro,professional player,High,0
+1997,312,10000,3120000,Stu Ungar,1000000,stuungar,32.05128205128205,0.0,9900.0,Pre-Boom (1996-2003),Pro,professional gambler,High,3
+1998,350,10000,3500000,Scotty Nguyen,1000000,scottynguyen,28.57142857142857,0.0,9900.0,Pre-Boom (1996-2003),Pro,professional player,High,0
+1999,393,10000,3930000,Noel Furlong,1000000,noelfurlong,25.44529262086514,0.0,9900.0,Pre-Boom (1996-2003),Amateur,businessman / non-poker primary career,Medium,1
+2000,512,10000,5120000,Chris Ferguson,1500000,chrisferguson,29.296875,0.0,14900.0,Pre-Boom (1996-2003),Pro,established professional,High,0
+2001,613,10000,6130000,Carlos Mortensen,1500000,carlosmortensen,24.469820554649267,0.0,14900.0,Pre-Boom (1996-2003),Pro,professional player,High,0
+2002,631,10000,6310000,Robert Varkonyi,2000000,robertvarkonyi,31.695721077654515,0.0,19900.0,Pre-Boom (1996-2003),Amateur,investment banker / non-poker primary career,High,0
+2003,839,10000,7802700,Chris Moneymaker,2500000,chrismoneymaker,32.04019121586118,6.999999999999995,24900.0,Pre-Boom (1996-2003),Amateur,recreational player / accountant / satellite qualifier,High,0
+2004,2576,10000,24224400,Greg Raymer,5000000,gregraymer,20.64034609732336,5.961180124223597,49900.0,Poker Boom (2004-2006),Uncertain-Crossover,patent attorney plus serious poker player,Low,0
+2005,5619,10000,52818610,Joe Hachem,7500000,joehachem,14.199540654326192,5.999982203239007,74900.0,Poker Boom (2004-2006),Pro,professional player,High,0
+2006,8773,10000,82512162,Jamie Gold,12000000,jamiegold,14.54331059704871,5.947609711615187,119900.0,Poker Boom (2004-2006),Amateur,television producer / non-poker primary career,High,0
+2007,6358,10000,59784954,Jerry Yang,8250000,jerryyang,13.799458639710588,5.968930481283419,82400.0,Post-Boom (2007+),Amateur,psychologist/social worker / satellite qualifier,High,0
+2008,6844,10000,64431779,Peter Eastgate,9152416,petereastgate,14.204816539366389,5.856547340736407,91424.15999999999,Post-Boom (2007+),Pro,professional player,High,0
+2009,6494,10000,61044921,Joe Cada,8547044,joecada,14.001236892418945,5.9979658145980945,85370.44,Post-Boom (2007+),Pro,professional player,High,0
+2010,7319,10000,68799059,Jonathan Duhamel,8944310,jonathanduhamel,13.000628395222675,5.999372865145514,89343.1,Post-Boom (2007+),Pro,professional player,High,0
+2011,6865,10000,64540858,Pius Heinz,8715638,piusheinz,13.504062806230435,5.985640203932996,87056.38,Post-Boom (2007+),Pro,online professional,High,0
+2012,6598,10000,62031385,Greg Merson,8531853,gregmerson,13.754090771953583,5.984563504092144,85218.53,Post-Boom (2007+),Pro,professional player,High,1
+2013,6352,10000,59714169,Ryan Riess,8361570,ryanriess,14.002656555431592,5.9915475440806,83515.7,Post-Boom (2007+),Pro,professional player,High,0
+2014,6683,10000,62825752,Martin Jacobson,10000000,martinjacobson,15.917039878806385,5.991692353733358,99900.0,Post-Boom (2007+),Pro,professional player,High,0
+2015,6420,10000,60355858,Joe McKeehen,7683346,joemckeehen,12.730075016082118,5.987760124610597,76733.46,Post-Boom (2007+),Pro,professional player,High,1
+2016,6737,10000,63340268,Qui Nguyen,8005310,quinguyen,12.638579299980227,5.981493246252045,79953.09999999999,Post-Boom (2007+),Pro,full-time cash player,Medium,0
+2017,7221,10000,67877400,Scott Blumstein,8150000,scottblumstein,12.006941927651914,6.000000000000005,81400.0,Post-Boom (2007+),Pro,professional player,High,0
+2018,7874,10000,74015600,John Cynn,8800000,johncynn,11.889385480898621,6.000000000000005,87900.0,Post-Boom (2007+),Pro,professional player,High,1
+2019,8569,10000,80548604,Hossein Ensan,10000000,hosseinensan,12.414864446316166,5.999995332010732,99900.0,Post-Boom (2007+),Pro,pro / semi-pro,High,0
+2021,6650,10000,62011250,Koray Aldemir,8000000,korayaldemir,12.900884920074986,6.75,79900.0,Post-Boom (2007+),Pro,professional player,High,2
+2022,8663,10000,80782475,Espen Jorstad,10000000,espenjorstad,12.378922532393318,6.75,99900.0,Post-Boom (2007+),Pro,online professional,High,0
+2023,10043,10000,93399900,Daniel Weinman,12100000,danielweinman,12.955045990413266,6.999999999999995,120900.0,Post-Boom (2007+),Pro,professional player,High,1
+2024,10112,10000,94041600,Jonathan Tamayo,10000000,jonathantamayo,10.63359194228937,6.999999999999995,99900.0,Post-Boom (2007+),Pro,professional player,High,6
+2025,9735,10000,90535500,Michael Mizrachi,10000000,michaelmizrachi,11.045391034456099,6.999999999999995,99900.0,Post-Boom (2007+),Pro,elite professional player,High,4

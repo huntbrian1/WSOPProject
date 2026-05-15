@@ -2,7 +2,10 @@
 
 ## Summary
 
-This project analyzes WSOP Main Event economics, payout structure, simulated variance, and event-time player status. The analysis uses a yearly economics panel, separate champion and heads-up label files, a cross-source reconciliation check, and a simulated player cohort.
+This project analyzes WSOP Main Event economics, payout structure, simulated variance, and event-time player status. The analysis uses a yearly economics panel, separate champion and heads-up label files, a cross-source reconciliation check, and a simulated player cohort. The csvs used are syntheisized from two Kaggle sources, one of which has all the wntrants from 1971-2025, and another of which has the final table contestants from 2001-2025. Here are the links to the original datasets:
+https://www.kaggle.com/datasets/cviaxmiwnptr/wsop-main-event-results-1971-2024
+https://www.kaggle.com/datasets/cviaxmiwnptr/wsop-main-event-final-table-20012024
+
 
 ## Key Findings
 
