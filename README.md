@@ -1,61 +1,55 @@
 # WSOP Main Event Analytics
 
-Analysis of WSOP Main Event field growth, payout structure, fee drag, simulated variance, and event-time player segmentation.
+A poker analytics project analyzing the World Series of Poker Main Event as a case study in market structure, payout design, fee drag, variance, and performance measurement.
 
-## What This Project Shows
+Using WSOP Main Event results from 1971–2025, the project examines how the tournament changed as it scaled from a small-field competition into a mass-market event. It also adds event-time professional/amateur player labels and a simulated player cohort to study how skill, variance, sample size, and realized outcomes interact.
 
-This project combines event-level economics with a separate player-status label layer. The goal is to show how the Main Event changed as a market: larger fields, broader prize distribution, measurable rake, and rare but important amateur breakthrough outcomes.
+## Why This Project Matters
+
+This is not just a poker project. The broader analytical question is how to interpret performance in a system where scale, incentives, fees, and variance all affect observed outcomes.
+
+The project connects poker analytics to broader business problems:
+
+- market scaling and payout concentration
+- fee drag and expected value
+- performance attribution under uncertainty
+- noisy outcome measurement
+- player segmentation and event-time classification
 
 ## Headline Results
 
-- Field size grew from **6 entries in 1971** to **9,735 in 2025**.
-- The largest field in the dataset was **10,112 entries in 2024**.
-- Winner share of prize pool declined from **100.0%** to **11.0%** across the dataset window.
-- Champion labels classify **47 Pro**, **7 Amateur**, and **1 Uncertain-Crossover** results.
-- In heads-up finals from 2001-2025, Pro vs Pro was the most common matchup type, followed by Pro vs Amateur and Amateur vs Pro.
+- Field size grew from 6 entries in 1971 to 9,735 in 2025.
+- The largest field in the dataset was 10,112 entries in 2024.
+- Winner share of the prize pool declined from 100.0% in the early years to roughly 11.0% by 2025.
+- Champion labels classify most winners as professional, with a smaller number of amateur or uncertain-crossover cases.
+- In heads-up finals from 2001–2025, Pro vs Pro was the most common matchup type.
+- The simulation shows that skill and realized outcomes are positively related, but short-run results remain highly noisy.
+
+## Project Components
+
+### 1. Historical WSOP Economics
+
+Analyzes field size, buy-in, prize pool, winner share, estimated rake, and event-era changes from 1971–2025.
+
+### 2. Professional vs Amateur Segmentation
+
+Adds a separate event-time label layer for champion and heads-up player status. Labels are treated as contextual classifications rather than permanent player identities.
+
+### 3. Simulation of Skill, Variance, and ROI
+
+Creates a simulated player cohort to test how underlying skill translates into realized cash rates and lifetime ROI under noisy tournament conditions.
 
 ## Repository Structure
 
 ```text
-wsop-main-event-analytics/
+WSOPProject/
   README.md
   REPORT.md
+  requirements.txt
   notebooks/
     WSOP_Main_Event_Analytics.ipynb
   data/
     labels/
-      wsop_champion_eventtime_labels.csv
-      wsop_headsup_eventtime_labels.csv
     processed/
-      wsop_yearly_economics_with_status.csv
-      wsop_simulated_player_cohort.csv
-      wsop_dataset_reconciliation_summary.csv
-      wsop_dataset_reconciliation_detail.csv
-      wsop_headsup_mix_by_year.csv
-      wsop_era_champion_status_summary.csv
-      wsop_uncertainty_stress_test.csv
-      wsop_key_metrics.csv
   outputs/
     charts/
-      field_size_trend.png
-      winner_share_trend.png
-      rake_percentage.png
-      champion_status_timeline.png
-      heads_up_mix_counts.png
-      simulated_roi_by_volume.png
-      skill_vs_cash_rate.png
-```
-
-## How to Run
-
-Open `notebooks/WSOP_Main_Event_Analytics.ipynb` and run all cells from the repository root. The notebook includes the reconciliation checks, label tables, segmentation summaries, charts, simulation outputs, and limitations. It reads the included CSVs and regenerates the derived tables and charts.
-
-Required Python packages:
-
-```bash
-pip install pandas numpy matplotlib scipy
-```
-
-## Notes
-
-The source result files contain tournament outcomes, not player occupations. Player status is therefore handled through separate label files with confidence notes. The project uses event-time labels rather than permanent lifetime identities.
