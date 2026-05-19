@@ -78,10 +78,11 @@ WSOPProject/
   pipeline.py                      ← Data processing and chart generation
   requirements.txt
   notebooks/
-    WSOP_Main_Event_Analytics.ipynb
+    WSOP_Main_Event_Analysis.ipynb
   data/
     labels/                        ← Manual event-time player labels
     processed/                     ← Derived CSVs from pipeline
+    raw                            ← Kaggle data (big files)
   outputs/
     charts/                        ← All chart PNGs
 ```
