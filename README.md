@@ -56,15 +56,45 @@ This project uses WSOP Main Event data (1971–2025) to answer three practical q
 
 ---
 
-## Key Charts
+## Visuals
 
-| Chart | What It Shows |
-|---|---|
-| `field_size_trend.png` | Main Event scale growth 1971–2025 |
-| `winner_share_trend.png` | Payout concentration decline over time |
-| `rake_percentage.png` | Fee drag by year |
-| `champion_status_timeline.png` | Pro vs Amateur vs Crossover outcomes over eras |
-| `skill_vs_cash_rate.png` | Simulation: skill signal vs realized cash rate |
+### Field Size Growth (1971–2025)
+![Field Size Trend](outputs/charts/field_size_trend.png)
+
+---
+
+### Winner's Share of Prize Pool Over Time
+![Winner Share Trend](outputs/charts/winner_share_trend.png)
+
+---
+
+### Rake % by Year (Fee Drag)
+![Rake Percentage](outputs/charts/rake_percentage.png)
+
+---
+
+### Estimated Rake Revenue by Year
+![Estimated Rake Revenue](outputs/charts/estimated_rake_revenue.png)
+
+---
+
+### Champion Status Timeline (Pro / Amateur / Crossover)
+![Champion Status Timeline](outputs/charts/champion_status_timeline.png)
+
+---
+
+### Heads-Up Final Table Mix
+![Heads-Up Mix Counts](outputs/charts/heads_up_mix_counts.png)
+
+---
+
+### Skill vs Cash Rate (Simulated Cohort)
+![Skill vs Cash Rate](outputs/charts/skill_vs_cash_rate.png)
+
+---
+
+### Simulated ROI by Volume
+![Simulated ROI by Volume](outputs/charts/simulated_roi_by_volume.png)
 
 ---
 
